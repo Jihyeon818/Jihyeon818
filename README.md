@@ -15,9 +15,9 @@
 
 <div style="display:flex; gap: 1;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=550 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyeon818&show_icons=true&theme=transparent" />
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Jihyeon818&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon818&layout=compact&card_width=320" />
+    <img width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon818&layout=compact&card_width=320" />
   </a>
 </div>

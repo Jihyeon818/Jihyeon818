@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+[![wakatime](https://wakatime.com/badge/user/018ef09b-4830-4742-8c11-7c2fa58d8c53.svg)](https://wakatime.com/@018ef09b-4830-4742-8c11-7c2fa58d8c53)
 
 <!--
 **Jihyeon818/Jihyeon818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
